@@ -1,3 +1,4 @@
+![Screenshot](firstMessage.jpg)
 ![Screenshot](morse.jpg)
 
 # Convert text into Morse Code 🆘
