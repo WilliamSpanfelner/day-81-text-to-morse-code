@@ -1,5 +1,4 @@
 ![Screenshot](day-81-text-to-morse-code.png)
-![Screenshot](morse.jpg)
 
 # Convert text into Morse Code 🆘
 - 👋 Hi, I’m @WilliamSpanfelner
